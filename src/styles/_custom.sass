@@ -46,3 +46,62 @@
     background-color: #DEF2F4
     &::before
       background-color: #43A99B
+
+////// Quote
+.bloque-texto-c.clr--mint,
+  background-color: #D0E9E6 !important
+
+
+////// Backgrounds
+
+.bg_img_01, .bg_img_02, .bg_img_03, .bg_img_04, .bg_img_05, .bg_gray, .bg_grad_01, .bg_grad_02
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    top: 0
+    left: - 3rem
+    width: calc( 100% + 6rem )
+    height: 100%
+
+.bg_img_01
+  &::before
+    background-image: url("../assets/curso/recursos/bg_img_01.svg")
+    background-repeat: no-repeat
+    background-position: top left
+    background-size: cover
+
+///// crds
+
+.fullHeight
+  height: 100%
+
+.content
+  position: relative
+  top: 50%
+  transform: translateY(-50%)
+
+.horizontal-scroll
+  align-items: stretch !important
+
+.triangles
+  position: absolute
+  bottom: 2rem
+  right: 2rem
+
+.crd
+  position: relative
+
+  &.crd--grad_01
+    background: linear-gradient(180deg, rgba(25,137,226,1) 0%, rgba(10,81,139,1) 100%)
+
+  &.crd--grad_02
+    background: linear-gradient(180deg, rgba(222,242,244,1) 0%, rgba(255,255,255,1) 100%)
+
+  &.crd--grad_02B
+    background: linear-gradient(0deg, rgba(222,242,244,1) 0%, rgba(255,255,255,1) 100%)
+
+  &.crd--grad_03
+    background: linear-gradient(90deg, rgba(238,232,248,1) 0%, rgba(251,249,255,1) 100%)
