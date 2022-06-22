@@ -1,15 +1,24 @@
 .banner-principal-decorativo
   &-1
+    animation: float1 3s ease-in-out infinite alternate
+    position: absolute
+    top: 25%
+    right: 40%
+  &-2
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    bottom: 42%
+    right: 55%
+  &-3
+    animation: float1 4.5s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    bottom: 20%
+    right: 75%
+  &-4
+    animation: float1 3s ease-in-out infinite alternate
+    position: absolute
+    bottom: 15%
+    right: 7%
 
 @keyframes float1
   0%
@@ -17,3 +26,23 @@
 
   100%
     transform: translateY(0px)
+
+
+//// Cajones
+.cajon
+  &.cjn--azul
+    background-color: #EEF6FC
+    &::before
+      background-color: #0B67D1
+  &.cjn--purpura
+    background-color: #ECE5F7
+    &::before
+      background-color: #7F4FC7
+  &.cjn--yellow
+    background-color: #FFFAD8
+    &::before
+      background-color: #EEAC3A
+  &.cjn--mint
+    background-color: #DEF2F4
+    &::before
+      background-color: #43A99B
