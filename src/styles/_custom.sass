@@ -73,6 +73,34 @@
     background-position: top left
     background-size: cover
 
+.bg_img_02
+  &::before
+    background-image: url("../assets/curso/recursos/bg_img_02.svg")
+    background-repeat: no-repeat
+    background-position: top left
+    background-size: cover
+
+
+.img-infografica-b__modal
+  background-image: url("../assets/curso/recursos/bg_img_03.svg")
+  background-repeat: no-repeat
+  background-position: top left
+  background-size: cover
+
+.img-infografica-b__modal__contenido div > *
+  color: $color-sistema-texto !important
+
+.img-infografica-b__modal__btn-cerrar i
+  color: #000;
+
+.img-infografica-b__modal__btn-cerrar
+  position: absolute;
+  right: 10px;
+  top: 16px;
+  padding: 5px;
+  cursor: pointer;
+  background: #EEAC3A;
+
 ///// crds
 
 .fullHeight
@@ -94,6 +122,15 @@
 .crd
   position: relative
 
+  &.crd--rad
+    border-radius: 15px
+
+  &.crd--yellow
+    background-color: #FDF3E1
+
+  &.crd--blue
+    background: #ECF3FB;
+
   &.crd--grad_01
     background: linear-gradient(180deg, rgba(25,137,226,1) 0%, rgba(10,81,139,1) 100%)
 
@@ -105,3 +142,40 @@
 
   &.crd--grad_03
     background: linear-gradient(90deg, rgba(238,232,248,1) 0%, rgba(251,249,255,1) 100%)
+
+///// infografia
+.img-infografica__card, .img-infografica-b__card
+  width: 450px !important
+  @media (max-width: 990px)
+    width: 300px !important
+
+.tarjeta.tarjeta--azul
+  background-color: #ECF3FB
+
+
+///// Acordion
+.acordion
+  .acordion__titulo
+    font-size: 0.8em !important
+
+  .acordion__accion__btn--b
+    width: 30px !important
+    height: 30px !important
+
+///// Acordion amarillo
+.acordion
+  .acordion__activo
+    background-color: #FDF3E1 !important
+
+.acordion__accion__btn--a
+  background-color: #EEAC3A
+
+
+.cstm_title
+  border-bottom: 3px solid #43A99B
+  h3
+    margin-bottom: 7px
+
+
+.img40
+  width: 40px
