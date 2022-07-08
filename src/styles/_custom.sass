@@ -54,7 +54,7 @@
 
 ////// Backgrounds
 
-.bg_img_01, .bg_img_02, .bg_img_03, .bg_img_04, .bg_img_05, .bg_gray, .bg_grad_01, .bg_grad_02
+.bg_img_01, .bg_img_02, .bg_img_03, .bg_img_04, .bg_img_05, .bg_gray, .bg_grad_01, .bg_grad_02, .bg_grad_03
   position: relative
   & > *
     position: relative
@@ -80,6 +80,18 @@
     background-position: top left
     background-size: cover
 
+.bg_gray
+  &::before
+    background-color: #F3F3F3
+.bg_grad_01
+  &::before
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(236,243,251,1) 20%, rgba(238,244,251,1) 80%, rgba(255,255,255,1) 100%)
+.bg_grad_02
+  &::before
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(222,242,244,1) 20%, rgba(222,242,244,1) 80%, rgba(255,255,255,1) 100%)
+.bg_grad_03
+  &::before
+    background: transparent linear-gradient(0deg, #FCFCFC 0%,  #ECE5F7 20%, #ECE5F7 80%, #FCFCFC 100%)
 
 .img-infografica-b__modal
   background-image: url("../assets/curso/recursos/bg_img_03.svg")
@@ -129,7 +141,14 @@
     background-color: #FDF3E1
 
   &.crd--blue
-    background: #ECF3FB;
+    background: #ECF3FB
+
+  &.crd--purple
+    background-color: #ECE5F7
+
+  &.crd--whiteA
+    padding: 1.2rem 2.5rem
+    background-color: white
 
   &.crd--grad_01
     background: linear-gradient(180deg, rgba(25,137,226,1) 0%, rgba(10,81,139,1) 100%)
@@ -179,3 +198,15 @@
 
 .img40
   width: 40px
+
+.hr--line
+  width: 100%
+  height: 2px
+  background-color: #43A99B
+  margin: 1rem 0
+
+.blt_01
+  top: 9px
+  color: #8C5BE1
+  font-size: 7px
+  padding-right: 7px

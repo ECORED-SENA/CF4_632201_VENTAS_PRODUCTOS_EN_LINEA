@@ -205,24 +205,249 @@
 
 
       div(x="38.8%" y="68.7%" tooltip="Revise los comentarios" numero="+")
-        h5 titulo
-        p Lorem ipsum dolor Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
-        p Lorem ipsum dolor Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
-        p Lorem ipsum dolor Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
+        .row.justify-content-center.align-items-center.mb-0
+          .col-auto
+            figure
+              img(src="@/assets/curso/temas/t1/t1_13.svg", alt="alt")
+
+          .col-9
+            h4 Revise los comentarios
+            p A cada instante miles de personas preguntan y comentan en redes sociales sobre sus necesidades y experiencias. Algunos solicitan recomendaciones de empresas y otros critican a sus proveedores actuales, ahí está la oportunidad de saber qué requiere su público objetivo.
+
 
       div(x="60%" y="68.7%" tooltip="Cree el <i>leed magnets</i>" numero="+")
-        h5 titulo
-        p Lorem ipsum dolor Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
-        p Lorem ipsum dolor Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
-        p Lorem ipsum dolor Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
+        .row.justify-content-center.align-items-center.mb-0
+          .col-auto
+            figure
+              img(src="@/assets/curso/temas/t1/t1_14.svg", alt="alt")
+
+          .col-9
+            h4 Cree el #[em lead magnets]
+            p Cree la base de datos de potenciales clientes por intermedio de (lead magnets), los cuales hacen referencia a las ofertas que se hacen a los clientes a cambio de las direcciones de correo electrónico o números de teléfono celular, en este sentido se pueden crear plantillas de Excel que contengan todos los datos necesarios de los clientes, por lo general son regalos para conseguir datos a cambio.
 
 
-      div(x="81%" y="68.7%" tooltip="Cree el <i>leed magnets</i>" numero="+")
-        h5 titulo
-        p Lorem ipsum dolor Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
-        p Lorem ipsum dolor Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
-        p Lorem ipsum dolor Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
+      div(x="81%" y="68.7%" tooltip="Realice campaña por mensaje" numero="+")
+        .row.justify-content-center.align-items-center.mb-0
+          .col-auto
+            figure
+              img(src="@/assets/curso/temas/t1/t1_15.svg", alt="alt")
 
+          .col-9
+            h4 Realice campaña por mensaje
+            p Con los datos de los clientes se pueden enviar mensajes al correo o al teléfono de la persona con promociones o información de valor de la empresa para meterlos en el proceso de ventas mediante el envío de 1 o 2 correos electrónicos masivos al mes, se podrá hacer un seguimiento continuo de clientes, el objetivo principal es ser la primera opción (top of mind) para los clientes.
+
+    .row.mb-4(data-aos="fade-in")
+      .col-auto
+        figure
+          img(src="@/assets/curso/recursos/square_08.svg", alt="alt").img40
+      .col-lg-auto.col
+        .cstm_title
+          h3 Seguimiento tipo 2
+
+    p.mb-5 Este tipo de seguimiento hace referencia a #[strong vender más al mismo cliente] al momento de que este realicé la primera compra, se da inicio a seguir cada paso dentro la plataforma de compras, con el fin de fomentar ventas con ingresos periódicos.
+
+    p.mb-5 Para realizar un seguimiento adecuado es importante tener en cuenta lo siguiente:
+
+    ImagenInfograficaB.color-acento-botones.mb-5
+      template(v-slot:imagen)
+        figure
+          img(src='@/assets/curso/temas/t1/t1_16.svg', alt='Recomendaciones para realizar un seguimiento adecuado a clientes.')
+
+
+      div.bg_img_03(x="29.4%" y="68.7%" tooltip="Descuentos exclusivos" numero="+")
+        .row.justify-content-center.align-items-center.mb-0
+          .col-auto
+            figure
+              img(src="@/assets/curso/temas/t1/t1_17.svg", alt="alt")
+
+          .col-9
+            h4 Descuentos exclusivos
+            p Se trata de hacer un seguimiento comercial a los clientes exclusivos y de aquellos clientes que han dejado de comprar por algún motivo, para los clientes VIP podrá enviarles descuentos y promociones premiando su fidelidad en la marca o servicio, y para aquellos que no han realizado compras de forma frecuente se podrán contactar y se les puede ofrecer un pequeño descuento, con el fin de fomentar nuevamente la compra de algún producto o servicio.
+
+
+      div(x="50.5%" y="68.7%" tooltip="Revise los comentarios" numero="+")
+        .row.justify-content-center.align-items-center.mb-0
+          .col-auto
+            figure
+              img(src="@/assets/curso/temas/t1/t1_18.svg", alt="alt")
+
+          .col-9
+            h4 #[em Cross selling]
+            p.mb-5 Más conocido como venta cruzada, hace referencia al escenario de intentar la venta de un producto que pueda ser complemento de una compra por parte un cliente.
+            p.mb-5 Señor usuario #[strong ¿desea adicionar a su pedido gaseosa y papas?], de igual forma se puede hablar de upselling, que hace referencia de intentar la venta de un producto que pueda ser complemento; pero que este aumenta el valor del producto, es decir,  #[strong ¿le gustaría agrandar sus papas por solo $1.000)?]
+            p.mb-5 Su vehículo nuevo requiere un gran seguro, se tienen estas opciones…
+
+
+      div(x="71.6%" y="68.7%" tooltip="Cree el <i>leed magnets</i>" numero="+")
+        .row.justify-content-center.align-items-center.mb-0
+          .col-auto
+            figure
+              img(src="@/assets/curso/temas/t1/t1_19.svg", alt="alt")
+
+          .col-9
+            h4 Fechas relevantes
+            p Si se conocen ciertas fechas importantes del cliente es fácil contactarlo cuando se cumpla un aniversario o un tiempo específico que pueda contactarlo. Tenga en cuenta fechas especiales para los clientes (cumpleaños, día de la madre, día del padre, entre otros), es muy importante referenciar cuándo fue la fecha de la última compra del cliente, de esta forma podrá contactarlo fácilmente por intermedio de un correo electrónico SMS.
+
+
+    separador
+
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-in")
+      h2 1.3 Criterios de percepción del cliente
+
+    p.mb-5 Las percepciones de los clientes son juicios subjetivos que se forman después de experimentar un servicio o producto, por eso algunas personas también la definen como experiencia o servicio percibido, debido a que incluye todas las experiencias directas o indirectas que ha tenido un cliente. Se puede decir que la percepción del cliente es el efecto de la comparación entre la expectativa y la realidad.
+
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .crd.crd--purple(data-aos="zoom-in").p-4
+          .row.justify-content-center.align-items-center
+            .col-lg-4.col-8
+              figure
+                img(src="@/assets/curso/temas/t1/t1_20.png", alt="alt")
+
+            .col-lg-8.mb-5.mb-lg-0
+              p Tenga en cuenta que todo proceso de la percepción de un cliente inicia el momento en el que un consumidor observa y obtiene información de un producto o servicio determinado, el proceso no se detiene puesto que el consumidor empieza a fundar una opinión acerca del servicio o producto.
+
+              .crd.crd--whiteA
+                p.text-center.mb-0 #[strong ¿Cómo se pueden generar percepciones para los clientes de forma positiva?]
+
+    p.mb-4 A continuación se pueden ver 4 realidades:
+
+    .row.justify-content-center(data-aos="fade-in").mb-5
+      .col-lg-10
+        .hr--line
+        .row.align-items-center
+          .col-auto
+            figure
+              img(src="@/assets/curso/temas/t1/t1_21.svg", alt="alt")
+          .col
+             h5 Cree relaciones rápidas y de confianza
+             p.mb-0  Elimine todo proceso o comunicación que pueda truncar una relación verdadera con un cliente, en la medida de lo posible siempre facilite que las compras no presenten inconvenientes y que los canales de comunicación sean los adecuados.
+        .hr--line
+        .row.align-items-center
+          .col-auto
+            figure
+              img(src="@/assets/curso/temas/t1/t1_22.svg", alt="alt")
+          .col
+            h5 Servicio al cliente
+            p.mb-0 Esté presto a dar respuesta oportuna a cualquier solicitud por parte de un cliente, tenga en cuenta el trato adecuado para él, de igual forma, establezca límites acerca de lo que se puede esperar del producto o servicio.
+        .hr--line
+        .row.align-items-center
+          .col-auto
+            figure
+              img(src="@/assets/curso/temas/t1/t1_23.svg", alt="alt")
+          .col
+            h5 No haga promesas falsas
+            p.mb-0  Asegúrese de que el producto o servicio que ofrece cumple con las condiciones, características adecuadas y propias del mismo, esto con el fin de no perder credibilidad ante sus clientes actuales y prospectos.
+        .hr--line
+        .row.align-items-center
+          .col-auto
+            figure
+              img(src="@/assets/curso/temas/t1/t1_24.svg", alt="alt")
+          .col
+            h5 Recopilar información de las percepciones del cliente
+            p Esto hace énfasis en lo que esté circulando en las redes sociales de acuerdo con su producto o servicio, preste atención porque esto es un feedback y opción de mejora, de igual forma, podrá generar encuestas para obtener la información de primera mano para determinar el estado actual de su servicio, marca o producto.
+            p.mb-0 La percepción del consumidor hace referencia a las sensaciones internas causadas por impresiones materiales que se producen en los sentidos corporales. Por tanto, la expresión percepción del consumidor hace referencia a la imagen inconsciente que los clientes crean sobre una marca, servicio o producto a partir de sensaciones y estímulos asociados a una organización.
+        .hr--line
+
+
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/temas/t1/t1_25.jpg')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            p.mb-0 La percepción del consumidor se centra en las interacciones, las cuales pueden ser directas o indirectas con la empresa. Cabe resaltar que la gran mayoría de las acciones de una compañía pueden afectar la percepción de un cliente, haciendo referencia a la forma en que se ubican los diferentes productos en una tienda física, de igual forma, los colores, olores, logotipo y muy importante, los descuentos, la atención al cliente, etc… En algunos casos en el sector de comidas (restaurantes) utilizan colores con que visualmente pueden estimular a las personas (amarillo, naranja, rojo), estos colores pueden generar impacto en sus clientes y en la empresa, generando una percepción agradable como estrategia de la experiencia con el cliente.
+
+    p.mb-5.text-center Algunas empresas desarrollan ciertas estrategias de percepción de los clientes a través de:
+
+    .bg_grad_03
+      .row.justify-content-center.mb-5.pt-4
+        .col-lg-11
+          .row.justify-content-center.align-items-center.mb-5
+            .col-lg-4
+              figure
+                img(src="@/assets/curso/temas/t1/t1_26.svg", alt="alt")
+            .col-lg-8
+              .row.align-items-center.mb-2
+                .col-auto.pe-0
+                  figure
+                    img(src="@/assets/curso/recursos/vineta_01.svg", alt="alt", style="width: 13px;")
+                .col-lg-8
+                  p.mb-0 La constante reproducción de anuncios publicitarios.
+
+              .row.align-items-center.mb-2
+                .col-auto.pe-0
+                  figure
+                    img(src="@/assets/curso/recursos/vineta_01.svg", alt="alt", style="width: 13px;")
+                .col-lg-10
+                  p.m-0 La interacción con los clientes y el servicio personalizado.
+
+              .row.align-items-center.mb-2
+                .col-auto.pe-0
+                  figure
+                    img(src="@/assets/curso/recursos/vineta_01.svg", alt="alt", style="width: 13px;")
+                .col-lg-10
+                  p.mb-0 La visualización del logotipo y eslogan de la empresa, producto o servicio.
+
+
+              .row.align-items-center.mb-2
+                .col-auto.pe-0
+                  figure
+                    img(src="@/assets/curso/recursos/vineta_01.svg", alt="alt", style="width: 13px;")
+                .col-lg-10
+                  p.m-0 Estar al tanto de las reseñas de los clientes en las redes sociales.
+
+
+              .row.align-items-center.mb-2
+                .col-auto.pe-0
+                  figure
+                    img(src="@/assets/curso/recursos/vineta_01.svg", alt="alt", style="width: 13px;")
+                .col-lg-10
+                  p.mb-0 La recepción de notificaciones vía SMS.
+
+
+              .row.align-items-center
+                .col-auto.pe-0
+                  figure
+                    img(src="@/assets/curso/recursos/vineta_01.svg", alt="alt", style="width: 13px;")
+                .col-lg-10
+                  p.m-0 Seguimiento de los clientes en la #[em postventa].
+
+          .row.justify-content-center.align-items-center
+            .col-lg-10
+              .crd.crd--whiteA
+                p.text-center.mb-0 De igual forma, la percepción de los clientes se podrá evidenciar teniendo en cuenta:
+
+
+      .row.justify-content-center.mb-5
+        .col-lg-11
+
+          .row.justify-content-center.align-items-center
+            .col-lg-8
+              ul.fa-ul.mb-0
+                li
+                  i.fa-li.fas.fa-circle.blt_01
+                  | La experiencia personal de un cliente al momento de realizar una compra y usar el producto, bien o servicio.
+
+                .hr--line
+
+                li
+                  i.fa-li.fas.fa-circle.blt_01
+                  | A los influenciadores, porque casi un 60% de los usuarios de las redes sociales han comprado algún producto que es referenciado por un “influencer”, teniendo en cuenta que este da confianza y credibilidad de un producto, recomendándolo a los clientes, los cuales no dudan en hacer una compra por estos medios.
+
+                .hr--line
+
+                li
+                  i.fa-li.fas.fa-circle.blt_01
+                  | Los comentarios positivos de los clientes, que en un 95% se toman el tiempo de leer las reseñas de otros consumidores antes de hacer una compra, demostrando que las opiniones de terceros son factores importantes para precisar la percepción del consumidor.
+
+            .col-lg-4
+              figure
+                img(src="@/assets/curso/temas/t1/t1_27.svg", alt="alt")
+
+
+      p #[br]
 </template>
 
 <script>
