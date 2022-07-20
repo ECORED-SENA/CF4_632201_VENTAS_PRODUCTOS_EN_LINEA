@@ -447,7 +447,8 @@
                 img(src="@/assets/curso/temas/t1/t1_27.svg", alt="alt")
 
 
-      p #[br]
+      p.mb-5 Medir la percepción del cliente es muy importante en el sector empresarial debido a que esa es la realidad de lo que el mercado sabe de su marca, bien o servicio. Hoy en día existen diversas técnicas que le ayudarán a monitorear las actividades comerciales de sus clientes, además, medir las percepciones de los consumidores sobre su producto suministra un valioso recurso de información, especialmente datos sobre cómo los consumidores interactúan con su marca y qué reacciones tienen sobre ella.
+
 </template>
 
 <script>
