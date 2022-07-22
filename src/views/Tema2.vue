@@ -65,9 +65,9 @@
         .tarjeta.tarjeta-slide.arriba(style="border-radius: 0; background-color: #FDF3E1;" @mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido.p-4
+            .tarjeta-slide__contenido.p-3.p-md-4
               h5 Servicio al cliente
-              p La atención al público es un factor diferencial dentro de una estrategia de #[em marketing]. Tenga presente que después que un cliente realicé una compra no lo suelte, es decir, no permita que este se sienta solo, por el contrario, ofrézcale un buen servicio de calidad postventa.
+              p.mb-0 La atención al público es un factor diferencial dentro de una estrategia de #[em marketing]. Tenga presente que después que un cliente realicé una compra no lo suelte, es decir, no permita que este se sienta solo, por el contrario, ofrézcale un buen servicio de calidad postventa.
             .tarjeta-slide__img(style="background-position-y: bottom; background-position-x: center;" :style="{'background-image': `url(${require('@/assets/curso/temas/t2/t2_02.svg')})`}")
       
       .col-md-6.col-xl-4.mb-4.mb-xl-0.px-2.mb-2
