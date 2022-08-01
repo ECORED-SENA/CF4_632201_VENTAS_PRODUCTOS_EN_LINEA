@@ -485,18 +485,18 @@
                 img(src="@/assets/curso/recursos/vineta_01.svg", alt="alt", style="width: 13px;")
             .col-lg-10
               p.mb-0 Tenga presente cada comentario en línea que realicen los clientes.
-      p.w-100.mb-5 De esta forma podrá tener un mejor panorama sobre cómo se comportan los diferentes usuarios de un sitio web, identificando los posibles cambios de percepción del producto y del mercado, para ello puede configurar las alertas de Google, estas le avisarán en tiempo real si le hacen reseñas de su producto o servicio, y así sabrá si la reseña que realizan los consumidores es positiva o negativa, para que de esta manera pueda tomar acción y determinar nuevas estrategias de percepción del cliente frente a sus productos.     
+      p.w-100.mb-5 De esta forma podrá tener un mejor panorama sobre cómo se comportan los diferentes usuarios de un sitio web, identificando los posibles cambios de percepción del producto y del mercado, para ello puede configurar las alertas de Google, estas le avisarán en tiempo real si le hacen reseñas de su producto o servicio, y así sabrá si la reseña que realizan los consumidores es positiva o negativa, para que de esta manera pueda tomar acción y determinar nuevas estrategias de percepción del cliente frente a sus productos.
 
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-in")
       h2 1.4  Resolución de conflictos
-    
+
     .row.justify-content-center.mb-4
       .mb-4
         .bloque-texto-c.clr--mint.p-4
           i.fas.fa-quote-right
           p.mb-2 Los conflictos son situaciones cotidianas del ser humano, muchas veces se generan por diferencias de pensamiento o ideas, o por la necesidad de poder o de obtener mayores beneficios que otros. En general las decisiones de las personas son quienes generan los conflictos; pero como casi todo en la vida tiene una solución, un conflicto también puede ser solucionado si las partes involucradas así lo permiten y se ponen en el lugar del otro o por medio del diálogo logran llegar a acuerdos que beneficien a todas las partes.
           h6 - Resolución de conflictos, 2022.
-    
+
     .bg-t1-edit
       p.mb-5 Conozca las causas más frecuentes que pueden generar un conflicto durante la atención de un cliente; pero recuerde que no son las únicas, pueden ser muchas más:
 
@@ -514,7 +514,7 @@
           .col-md-7.col-xl-8.mb-4.mb-md-0.ps-xl-4.d-flex.flex-wrap.align-content-center
             h4.p-1(style="background-color: #DEF2F4") Cliente desinteresado
             p Son bastante exigentes con cualquier tipo de requerimiento, se quejan fácilmente cuando un producto o servicio es defectuoso o cuando el vendedor pasa por encima de los acuerdos pactados se tornan agresivos en cómo se expresan. No cuentan con una escucha generosa y por el contrario no dejan hablar a la otra persona, y la mayoría de las veces descubren que el error fue cometido por el vendedor. Buscan una solución rápida a sus necesidades. Por lo general este cliente termina la negociación, rompe la relación existente y agrega una mala reputación al vendedor y al proveedor sin encontrar una salida a la negociación.
-        
+
         .d-flex.flex-wrap.col-lg-10.col-xl-9.mx-auto
           .col-md-5.col-xl-4
             figure
@@ -522,7 +522,7 @@
           .col-md-7.col-xl-8.mb-4.mb-md-0.ps-xl-4.d-flex.flex-wrap.align-content-center
             h4.p-1(style="background-color: #DEF2F4") Clientes silenciosos
             p Estos clientes dan la precepción de ser de manejo fácil, pero a menudo son más difíciles que los clientes agresivos, porque solo tratan con aquellos que puedan sentir algún tipo de confianza. Son bastante introvertidos, esto puede deberse a una falta de personalidad o desconfianza natural hacia las personas nuevas que conoce.
-        
+
         .d-flex.flex-wrap.col-lg-10.col-xl-9.mx-auto
           .col-md-5.col-xl-4
             figure
@@ -530,7 +530,7 @@
           .col-md-7.col-xl-8.mb-4.mb-md-0.ps-xl-4.d-flex.flex-wrap.align-content-center
             h4.p-1(style="background-color: #DEF2F4") Clientes silenciosos
             p Estos clientes dan la precepción de ser de manejo fácil, pero a menudo son más difíciles que los clientes agresivos, porque solo tratan con aquellos que puedan sentir algún tipo de confianza. Son bastante introvertidos, esto puede deberse a una falta de personalidad o desconfianza natural hacia las personas nuevas que conoce.
-        
+
         .d-flex.flex-wrap.col-lg-10.col-xl-9.mx-auto
           .col-md-5.col-xl-4
             figure
@@ -546,19 +546,19 @@
           .col-md-7.col-xl-8.mb-4.mb-md-0.ps-xl-4.d-flex.flex-wrap.align-content-center
             h4.p-1(style="background-color: #DEF2F4") Cliente prepotente
             p Por lo general cuentan con un alto nivel de superioridad, tienen la verdad absoluta, no les importa generar un problema con el fin de agredir y humillar a los vendedores (verbalmente), ellos creen que son los conocedores del negocio, creen tener el manejo de la negociación y que el vendedor es simplemente un intermediario.
-    p.mb-5 Conociendo esta información se recomienda tener una buena disposición al momento de ofrecer sus productos o servicios, sea resiliente, tenga escucha activa, generosa y sobretodo no pierda la calma fácilmente. 
+    p.mb-5 Conociendo esta información se recomienda tener una buena disposición al momento de ofrecer sus productos o servicios, sea resiliente, tenga escucha activa, generosa y sobretodo no pierda la calma fácilmente.
     separador
 
     .bg-t1-edit--2
       img.img-bg(src="@/assets/curso/temas/t1/bg-t1-2.svg")
       #t_1_5.titulo-segundo.position-relative.color-acento-contenido(data-aos="fade-in")
         h2 1.5  Técnicas de resolución de conflictos
-      
+
       p.mb-4.position-relative Prepararse de la mejor forma posible al momento de reunirse con los clientes difíciles (en especial de los que manejan un temperamento alto y no cuentan con la paciencia necesaria al momento de los reclamos), con ellos es difícil entablar un tema de concertación o negociación, para lo cual es muy importante contar con personas especializadas (vendedores) que tengan un alto nivel de conocimiento de las diversas variables que influyen en una negociación sea en persona o en línea. Esta característica le dará la posibilidad de contar con una persona responsable, confiada y con destrezas de negociación, que no se intimide por el carácter de un cliente y que puede darle respuesta oportuna a cualquier requerimiento enrutando de la mejor forma la negociación.
       .col-xl-10.mx-auto.mb-5
         p.mb-0.position-relative.p-3(style="background-color: #DEF2F4") A continuación se plasmarán 7 técnicas de negociación y resolución de conflictos con clientes que no son de fácil manejo:
         LineaTiempoB.position-relative.p-4(:datos="datosLineaTiempoB" style="background-color: white;")
-      p.mb-5 De acuerdo con estas estrategias de intervención con los clientes tenga presente que el manejo y resolución de conflictos es una destreza que debe conocer toda persona que esté encargada del área de atención al cliente, apóyese en softwares especializados en atención al cliente y registro de datos, porque hay muchas herramientas con las cuales podrá gestionar las relaciones con el usuario y los productos. 
+      p.mb-5 De acuerdo con estas estrategias de intervención con los clientes tenga presente que el manejo y resolución de conflictos es una destreza que debe conocer toda persona que esté encargada del área de atención al cliente, apóyese en softwares especializados en atención al cliente y registro de datos, porque hay muchas herramientas con las cuales podrá gestionar las relaciones con el usuario y los productos.
       Separador
 
     #t_1_6.titulo-segundo.color-acento-contenido(data-aos="fade-in")
@@ -601,7 +601,7 @@
         .col-md-11.ps-md-4
           p #[span(style="color: #8C5BE1") ●] ¿De qué forma está dando respuesta a las solicitudes de los clientes?
             br
-            |#[span(style="color: #8C5BE1") ●] ¿Está al tanto de que los clientes realizan esfuerzos innecesarios al momento de solicitar una respuesta? 
+            |#[span(style="color: #8C5BE1") ●] ¿Está al tanto de que los clientes realizan esfuerzos innecesarios al momento de solicitar una respuesta?
             br
             |#[span(style="color: #8C5BE1") ●] ¿Qué tanto tiempo tarda en dar respuesta oportuna y efectiva a los clientes?
 
@@ -610,8 +610,8 @@
 
     #t_1_7.titulo-segundo.color-acento-contenido(data-aos="fade-in")
       h2 1.7  Trámites y respuestas a clientes
-    
-    p.mb-5 El trámite de respuestas o peticiones de los clientes se enfoca en el desarrollo de procesos al interior de la empresa, en la que se pregunta si es necesario que el cliente tenga la razón, es por eso que para presentar este contenido se responderá la pregunta: 
+
+    p.mb-5 El trámite de respuestas o peticiones de los clientes se enfoca en el desarrollo de procesos al interior de la empresa, en la que se pregunta si es necesario que el cliente tenga la razón, es por eso que para presentar este contenido se responderá la pregunta:
     .d-flex.justify-content-center.mb-5
       h4.py-2.px-4.px-md-5(style="background-color: #DEF2F4") ¿el cliente siempre tiene la razón?
 
@@ -626,7 +626,7 @@
           p.mb-0 Un reclamo no del todo puede ser malo, debido a que de esta forma se podrá identificar en qué se está fallando al momento de prestar un servicio, tenga presente que las reclamaciones van a llegar en cualquier momento, este escenario se presta para que se pueda construir una mejor relación con el cliente, porque se podrá generar una comunicación efectiva. Dicho escenario de comunicación se da al momento de que un cliente radica una solicitud y termina al momento en el que la empresa emite una respuesta concreta y precisa dicho requerimiento, por eso la importancia de dar respuesta a las quejas de los clientes.
 
       p.mt-5 En este aparte se hablará de los puntos importantes al momento de realizar una respuesta de alguna reclamación por parte de un cliente. Se recomienda contar con un equipo de personas capacitadas para dar respuesta a cualquier tipo de queja o situación desde el área de atención al cliente.
-    
+
     .mb-5.py-3.bg_grad_04
       p.mb-5 Antes de responder, pase la queja al departamento que tenga la responsabilidad de solucionar el problema, de esa manera, cuando se dé la respuesta, ya tendrá información necesaria que presentar con respecto a la solución, en caso de que este proceso se tarde se puede dar una respuesta rápida para anunciar que se va a investigar la situación; pero no olvide dar una respuesta concreta una vez la tenga, haciendo referencia a si dicha respuesta depende de un departamento especializado o no. A continuación se hace referencia del paso a paso para facilitar el entendimiento:
       .d-flex.flex-wrap.mb-5
@@ -634,21 +634,21 @@
           .py-3.py-4.position-relative
             p.ps-xl-4.col-xl-7.mx-auto.mb-0.position-relative(style="z-index: 1") Dar respuesta de forma rápida al reclamo recibido, tenga en cuenta qué canales utilizará para emitir la respuesta, tenga en cuenta que por lo general que quien presenta la queja no está en disposición de esperar, no será paciente; sin embargo, demuestre que está priorizando la inconformidad, recuerde que esta es una gran oportunidad de fidelización.
             img(src="@/assets/curso/temas/t1/slide-1.svg" style="position: absolute; top: -1rem; left: 0; z-index: 0;")
-          
+
           .py-3.py-4.position-relative
             p.ps-xl-4.col-xl-7.mx-auto.mb-0.position-relative(style="z-index: 1") Para el cliente es importante sentir que su solicitud, queja o reclamo, está siendo bien atendido, de la forma más personalizada posible, escúchelo o léalo detenidamente, si le llama por su nombre este entenderá que está conectado con la situación, es una manera de que el cliente se sienta de una u otra forma tranquila y el percibirá que comprende la situación y que buscara la solución de forma oportuna.
             img(src="@/assets/curso/temas/t1/slide-2.svg" style="position: absolute; top: -1rem; left: 0; z-index: 0;")
 
           .py-3.py-4.position-relative
-            p.ps-xl-4.col-xl-7.mx-auto.mb-0.position-relative(style="z-index: 1") Evite a toda costa un diálogo confrontativo, sea neutro al momento de dar una respuesta, no se trata de quién gana, se trata de un ganar-ganar para las dos partes, dele el lugar que merece como cliente y hágale saber de manera amable la respuesta objetiva de acuerdo con la petición, tenga presente que si no existe validez en la solicitud argumente con criterio que es inviable una solución al caso. 
+            p.ps-xl-4.col-xl-7.mx-auto.mb-0.position-relative(style="z-index: 1") Evite a toda costa un diálogo confrontativo, sea neutro al momento de dar una respuesta, no se trata de quién gana, se trata de un ganar-ganar para las dos partes, dele el lugar que merece como cliente y hágale saber de manera amable la respuesta objetiva de acuerdo con la petición, tenga presente que si no existe validez en la solicitud argumente con criterio que es inviable una solución al caso.
             img(src="@/assets/curso/temas/t1/slide-3.svg" style="position: absolute; top: -1rem; left: 0; z-index: 0;")
 
           .py-3.py-4.position-relative
-            p.ps-xl-4.col-xl-7.mx-auto.mb-0.position-relative(style="z-index: 1")  Tenga la capacidad de ofrecer disculpas, explique brevemente lo sucedido, esto refleja que se tomó el tiempo necesario para estudiar el caso, con el fin de que este no se vuelva a presentar, posiblemente aquel cliente que está inconforme cambie su percepción y solo por el hecho de ser escuchado sentirá que de una u otra forma el asunto podrá ser solucionado. 
+            p.ps-xl-4.col-xl-7.mx-auto.mb-0.position-relative(style="z-index: 1")  Tenga la capacidad de ofrecer disculpas, explique brevemente lo sucedido, esto refleja que se tomó el tiempo necesario para estudiar el caso, con el fin de que este no se vuelva a presentar, posiblemente aquel cliente que está inconforme cambie su percepción y solo por el hecho de ser escuchado sentirá que de una u otra forma el asunto podrá ser solucionado.
             img(src="@/assets/curso/temas/t1/slide-4.svg" style="position: absolute; top: -1rem; left: 0; z-index: 0;")
 
           .py-3.py-4.position-relative
-            p.ps-xl-4.col-xl-7.mx-auto.mb-0.position-relative(style="z-index: 1")  Solucione el problema, es significativo ponerse desde el punto de vista del cliente. Un cliente puede argumentar que la solución que se le da al caso no es suficiente, entonces hágalo partícipe de la decisión y pregúntele cómo quiere ser compensado, esto no lo tome como que el cliente ganó, simplemente se presentó así la situación y cree estrategias de mejora. 
+            p.ps-xl-4.col-xl-7.mx-auto.mb-0.position-relative(style="z-index: 1")  Solucione el problema, es significativo ponerse desde el punto de vista del cliente. Un cliente puede argumentar que la solución que se le da al caso no es suficiente, entonces hágalo partícipe de la decisión y pregúntele cómo quiere ser compensado, esto no lo tome como que el cliente ganó, simplemente se presentó así la situación y cree estrategias de mejora.
             img(src="@/assets/curso/temas/t1/slide-5.svg" style="position: absolute; top: -1rem; left: 0; z-index: 0;")
 
           .py-3.py-4.position-relative
@@ -662,6 +662,7 @@
         .col-xl-4.order-1.order-xl-2
           figure
             img.mx-auto(src="@/assets/curso/temas/t1/t1_38.png")
+
       .col-xl-8.mx-auto.d-flex.align-items-center.p-3(style="background-color: #ECE5F7; border-radius: 20px;")
         img.me-3.mr-md-4(src="@/assets/curso/temas/t1/advertencia.svg" style="max-width: 59px")
         p.fw-bold.mb-0 Tenga muy presente que la buena atención y respuesta oportuna es buen marketing.
