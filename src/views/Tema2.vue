@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido.mb-0
       .titulo-principal__numero
         span.text-white 2
-      h1 #[em marketing]
+      h1 #[em Marketing]
     .bg_grad_05
       p.mb-5.pt-5 El #[em marketing] digital o #[em marketing online] hace referencia a todas aquellas operaciones y estrategias comerciales y publicitarias que se desarrollan en los medios y canales de Internet, tal como se muestra a continuación:
       figure(data-aos="zoom-in")
@@ -101,13 +101,13 @@
         .col-lg-5.mb-5.mb-lg-0
           img.mx-auto(src="@/assets/curso/temas/t2/t2_05.png" style="max-width: 353px")
         .col-lg-7
-          p.mb-0 Hace referencia al Search Engine #[em Marketing], se asocia a las acciones del #[em Marketing] en los buscadores y por lo general se utiliza en anuncios de campañas. Estos son anuncios de motores de búsqueda patrocinados y a diferencia del SEO, son estrategias pagas. Cuenta con una gran ventaja y es que sus buscadores son Google Adwords, Bing Ads, Yahoo, produciendo tráfico de alta calidad en la Web para permitir una buena segmentación del mercado.
+          p.mb-0 La optimización de motores de búsqueda tiene como objetivo mejorar la visibilidad de un sitio web con los resultados de otros buscadores, comúnmente esta técnica se conoce como SEO (#[em Search Engine Optimization]), que por intermedio de un conjunto de "palabras clave" y técnicas el SEO cuenta con capacidad de asociar un negocio con palabras asociadas y seleccionadas, asegurando que aparezcan en los primeros lugares del motor de búsqueda. La tecnología SEO está cambiando, evolucionando y convirtiéndose muy rápidamente en un motor de búsqueda utilizado por un sinnúmero de personas a nivel mundial.
 
       .row.align-items-center(titulo="(SEM) Campañas de anuncios en buscadores")
         .col-lg-5.mb-5.mb-lg-0
           img.mx-auto(src="@/assets/curso/temas/t2/t2_06.png" style="max-width: 353px")
         .col-lg-7
-          p.mb-0 Hace referencia al Search Engine Marketing, se asocia a las acciones del marketing en los buscadores y por lo general se utiliza en anuncios de campañas. Estos son anuncios de motores de búsqueda patrocinados y a diferencia del SEO, son estrategias pagas. Cuenta con una gran ventaja y es que sus buscadores son Google Adwords, Bing Ads, Yahoo, produciendo tráfico de alta calidad en la Web para permitir una buena segmentación del mercado.
+          p.mb-0 Hace referencia al #[em Search Engine  Marketing], se asocia a las acciones del marketing en los buscadores y por lo general se utiliza en anuncios de campañas. Estos son anuncios de motores de búsqueda patrocinados y a diferencia del SEO, son estrategias pagas. Cuenta con una gran ventaja y es que sus buscadores son Google Adwords, Bing Ads, Yahoo, produciendo tráfico de alta calidad en la Web para permitir una buena segmentación del mercado.
 
       .row.align-items-center(titulo="Blogs")
         .col-lg-5.mb-5.mb-lg-0
@@ -132,7 +132,7 @@
 
             .d-flex.mb-3
               img.me-3.mb-auto(src="@/assets/curso/temas/t2/redes_2.svg" style="max-width: 58px;")
-              p.mb-0 #[b Twitter:] su gran ventaja es la inmediatez y la forma rápida de dar respuesta a una solitud en el marco empresarial.
+              p.mb-0 #[b Twitter:] su gran ventaja es la inmediatez y la forma rápida de dar respuesta a una solicitud en el marco empresarial.
 
             .d-flex.mb-3
               img.me-3.mb-auto(src="@/assets/curso/temas/t2/redes_3.svg" style="max-width: 58px;")
@@ -140,7 +140,7 @@
 
             .d-flex.mb-3
               img.me-3.mb-auto(src="@/assets/curso/temas/t2/redes_4.svg" style="max-width: 58px;")
-              p.mb-0 #[b LinkedIn:] es sin duda alguna la red profesional de mayor audiencia, se utiliza bastante en recursos humanos y búsqueda activa de trabajo en diferentes ámbito.
+              p.mb-0 #[b LinkedIn:] es sin duda alguna la red profesional de mayor audiencia, se utiliza bastante en recursos humanos y búsqueda activa de trabajo en diferentes ámbitos.
         p El mundo del #[em(style="background-color: #ECE5F7") marketing] es bastante amplio, puede tornarse abrumador, por eso lo más importante es elegir por dónde comenzar y determinar cuál es el mayor beneficio para una empresa con esta estrategia y poder activar una campaña adecuada.
 
 </template>

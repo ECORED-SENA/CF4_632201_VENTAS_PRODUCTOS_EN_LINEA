@@ -13,7 +13,7 @@
       .row.align-items-center
 
         .col-lg-7
-          p.mb-4 Un servicio destinado a brindar asistencia con cualquier problema que pueda ocurrir con un producto después de que el comprador empieza a darle vida útil al producto. De esta manera, tiene garantizado el soporte del fabricante en caso de que se requieran reparaciones, devoluciones o reemplazos. Tenga en cuenta que para realizar un adecuado servicio postventa debe seguir una serie de requerimientos fundamentales, con el fin de fidelizar al 100% los clientes.
+          p.mb-4 Un servicio destinado a brindar asistencia con cualquier problema que pueda ocurrir con un producto después de que el comprador empieza a darle vida útil al producto. De esta manera, tiene garantizado el soporte del fabricante en caso de que se requieran reparaciones, devoluciones o reemplazos. Tenga en cuenta que para realizar un adecuado servicio postventa debe seguir una serie de requerimientos fundamentales, con el fin de fidelizar al 100 % los clientes.
 
           p La búsqueda de clientes es una tarea diaria de la gran mayoría de empresas y para ello crear una cultura de lealtad es esencial para la búsqueda del éxito. Los clientes al momento de hacer una compra tienen una buena experiencia de acuerdo con las características que el cliente busca, aquí comienza la relación del producto con el cliente generando un escenario de satisfacción, dando paso a que conozcan el producto, lo que podrá generar nuevos clientes, posterior a esto se da paso al proceso de postventa. Al aprender más sobre el concepto y comprender la importancia de la postventa en las relaciones con los clientes estará listo para pensar y ajustar la estrategia de ser el caso.
 
@@ -21,6 +21,10 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/temas/t3/t3_01.png")
 
     p.mb-4 Al momento de diseñar una estrategia de servicio postventa no se limite simplemente a dar respuesta oportuna cada que un cliente lo contacte, fortalezca dicho escenario porque el cliente es parte fundamental de su empresa.
+
+
+    #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-in")
+      h2 3.1  Proceso de postventa digital
 
     .row.mb-4
       .col-10
@@ -52,7 +56,7 @@
             .tarjeta.color-acento-botones--borde.p-4(titulo="PASO 4")
               h4 Importancia al cliente
 
-              p.mb-4 Una estrategia ideal es la de enviar regalos en fechas especiales, por ejemplo, un cumpleaños, esto hará que la experiencia del cliente hacia el producto crezca de maneta notable, se sentirá parte importante de la emprensa.
+              p.mb-4 Una estrategia ideal es la de enviar regalos en fechas especiales, por ejemplo, un cumpleaños, esto hará que la experiencia del cliente hacia el producto crezca de maneta notable, se sentirá parte importante de la empresa.
 
             .tarjeta.color-acento-botones--borde.p-4(titulo="PASO 5")
               h4 Implemente una plataforma de CRM #[em  (Customer Relationship Management)]
@@ -70,7 +74,11 @@
       figure.d-block.d-lg-none
         img(src='@/assets/curso/temas/t3/t3_03_movil.svg', alt='Recomendaciones de ventas en línea')
 
-      p.mb-4 Dentro del contexto de la postventa es importante tener claro la manera cómo se debería llevar a cabo, en este aparte se hablará sobre cuál sería el procedimiento a tener en cuenta al momento de realizar un servicio adecuado, con el fin de seguir fidelizando y captando clientes, recuerde que no solo se trata de hacer una venta y soltar al cliente, con ello buscando tener una buena base de datos de clientes frecuentes y potenciales. Dentro del ejercicio planteado se podrían plantear las siguientes tareas en el procedimiento de la postventa:
+      #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-in")
+        h2 3.2. Procedimientos de postventa digital
+
+
+      p.mb-4 Dentro del contexto de la postventa es importante tener claro la manera cómo se debería llevar a cabo, en este aparte se hablará sobre cuál sería el procedimiento a tener en cuenta al momento de realizar un servicio adecuado, con el fin de seguir fidelizando y captando clientes, recuerde que no solo se trata de hacer una venta y soltar al cliente, con ello buscando tener una buena base de datos de clientes frecuentes y potenciales. Dentro del ejercicio planteado se podrían sugerir las siguientes tareas en el procedimiento de la postventa:
 
     .row.justify-content-center(data-aos="zoom-in").mb-4
       .col-lg-10
@@ -110,7 +118,7 @@
               .col-lg-7.mb-4.mb-lg-0.pt-5.pt-0.position-relative
                 .number(data-number="04")
 
-                  p.ps-4.mb-0 Realice un seguimiento postventa detallado de la compra, cuando un cliente que acaba de pagar un producto se genera un periodo de inseguridad, ya que el cliente podrá sentirse tranquilo al momento de recibir el producto en sus manos, mantenga siempre informado a su cliente de dónde parte el producto, quién lo transporta, dónde se encuentra en un momento determinado y cuál es el periodo de entrega, esto hará que su cliente sienta tranquilidad y credibilidad, hoy en día es muy fácil, ya que la gran mayoría de las empresas especializadas en transportar elementos cuentan con plataformas de tracking, con el código de envío se puede monitorear el pedido en tiempo real.
+                  p.ps-4.mb-0 Realice un seguimiento postventa detallado de la compra, cuando un cliente acaba de pagar un producto se genera un periodo de inseguridad, ya que el cliente podrá sentirse tranquilo al momento de recibir el producto en sus manos, mantenga siempre informado a su cliente de dónde parte el producto, quién lo transporta, dónde se encuentra en un momento determinado y cuál es el periodo de entrega, esto hará que su cliente sienta tranquilidad y credibilidad, hoy en día es muy fácil, ya que la gran mayoría de las empresas especializadas en transportar elementos cuentan con plataformas de tracking, con el código de envío se puede monitorear el pedido en tiempo real.
 
 
               .col-6.col-lg-5

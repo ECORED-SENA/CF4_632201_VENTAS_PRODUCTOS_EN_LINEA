@@ -216,21 +216,21 @@ export default {
       tema: 'Resolución de conflictos',
       referencia: 'Jara, E. (2016). Manejo de conflictos [video]. YouTube. ',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=FWfvNwAtMvs',
+      link: 'https://www.youtube.com/watch?v=FWfvNwAtMvs',
     },
     {
       tema: '<em>Marketing</em>',
       referencia:
         'Cyberclick - Marketing digital. (2021). Qué es el marketing relacional. Cómo aplicar en tu empresa [video]. YouTube.',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=pyV1HBy3ybY',
+      link: 'https://www.youtube.com/watch?v=pyV1HBy3ybY',
     },
     {
       tema: 'Niveles de cumplimiento',
       referencia:
         'Fabricando. (2021). Cómo se hacen los envíos de Amazon en 1 día. Cómo funcionan los envíos de Amazon Prime [video]. YouTube.',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=X4P_g7XS1vY',
+      link: 'https://www.youtube.com/watch?v=X4P_g7XS1vY',
     },
   ],
   glosario: [
@@ -324,7 +324,7 @@ export default {
     },
     {
       referencia:
-        'Csizmadia, A. (2020). Consejos de resolución de conflictos para manejar y resolver conflictos con clientes. LiveAgent. ',
+        'Csizmadia, A. (2020).  Conflict resolution tips for handling & resolving conflicts with clients. LiveAgent. ',
       link:
         'https://www.liveagent.com/blog/conflict-resolution-tips-for-handling-resolving-conflicts-with-clients/',
     },
@@ -368,20 +368,10 @@ export default {
       link: 'https://desnudandoelmarketing.com/tipos-de-clientes-en-marketing/',
     },
     {
-      referencia: 'Quiroa, M. (s.f). Cliente. Economipedia.',
-      link: 'https://economipedia.com/definiciones/cliente.html',
-    },
-    {
       referencia:
-        'Resolución de conflictos. (2022). Recomendaciones para la resolución de conflictos. Resolución de conflictos.',
+        'Sordo, A. (2022). Guía completa para crear una estrategia de marketing digital efectiva. HubSpot. ',
       link:
-        'https://resolucionconfligtosnrc1888g1.blogspot.com/2022/04/resolucion-de-conflictos.html',
-    },
-    {
-      referencia:
-        'Sordo, A. (2022). Guía completa para crear una estrategia de marketing digital efectiva. HubSpot.',
-      link:
-        'https://www.gestionar-facil.com/que-es-la-capacidad-de-respuesta-en-el-servicio-al-cliente',
+        'https://blog.hubspot.es/marketing/guia-completa-estrategia-marketing-digital',
     },
     {
       referencia:

@@ -14,10 +14,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/t4/t4_01.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Think about all the possibilities. A good composition is the result of a hierarchy consisting of clearly contrasting elements set with distinct alignments containing irregular intervals of negative space. Nothing of without working at it. Be impossible to ignore.
-              br
-              br
-              | Stand so tall that they can’t look past you. Saul Bass on failure: Failure is built into creativity… the creative act involves this element of ‘newness’ and ‘experimentalism,’ then one must expect accept possibility of failure.
+            p.mb-0 En el entorno empresarial de comercio electrónico el cumplimiento hace énfasis en una tarea vital, por la cual el vendedor toma las medidas necesarias para poder hacer la entrega de un pedido a un comprador, centrándose en que la parte logística de la empresa pueda dar cumplimiento a los pedidos sin ningún tipo de inconveniente, es un proceso de bastante cuidado hasta que se hace la entrega del producto al cliente, los comerciantes de una u otra forma hacen una inversión humana y económica para que este proceso llegue a su fin de la forma correcta en el cumplimiento de entrega de pedidos, se recomienda tener el inventario adecuado para dar respuesta a cualquier tipo de pedido por parte de un cliente.
 
 
     separador

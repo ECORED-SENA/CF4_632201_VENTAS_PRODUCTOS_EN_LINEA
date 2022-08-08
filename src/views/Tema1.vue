@@ -37,7 +37,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-in")
       h2 1.1 Tipos de cliente
 
-    p.mb-4 Una de las mejores formas de hacer publicidad para una marca es que la hagan los mismos clientes que ya tienen la marca, ese es sin duda el sueño de todos los dueños de las empresas, los clientes haciendo publicidad gratis, y esto se debe en gran parte a que para un desconocido tendrá mucho más valor la recomendación de un amigo a o que este observe en una publicidad que vea en la televisión o por cualquier otro medio. Por esto, existe la idea de llegar a tal punto de lealtad que los propios clientes publiciten las marcas. Para lograr este fenómeno es necesario que primero conozca los tipos de clientes que existen en marketing y partiendo de ello, poder planificar una estrategia de lealtad orientada al consumidor, teniendo en cuenta que todos los clientes no son iguales.
+    p.mb-4 Una de las mejores formas de hacer publicidad para una marca es que la hagan los mismos clientes que ya tienen la marca, ese es sin duda el sueño de todos los dueños de las empresas, los clientes haciendo publicidad gratis, y esto se debe en gran parte a que para un desconocido tendrá mucho más valor la recomendación de un amigo a que este observe en una publicidad que vea en la televisión o por cualquier otro medio. Por esto, existe la idea de llegar a tal punto de lealtad que los propios clientes publiciten las marcas. Para lograr este fenómeno es necesario que primero conozca los tipos de clientes que existen en marketing y partiendo de ello, poder planificar una estrategia de lealtad orientada al consumidor, teniendo en cuenta que todos los clientes no son iguales.
 
     .crd.crd--grad_03.p-4.mb-5
       .row.justify-content-center.align-items-center
@@ -89,7 +89,7 @@
     separador
 
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-in")
-      h2 1.2 Asesoría y seguimiento al cliente
+      h2 1.2 Asesoría al cliente
 
     p.mb-5 La asesoría es parte fundamental dentro de la estructura de una organización, puesto que es aquí es donde se hacen grandes esfuerzos para cautivar clientes y mantenerlos satisfechos de acuerdo con la gestión que se les dé en el momento de resolver alguna inquietud o queja, no es una tarea sencilla, por el contrario, es bastante compleja para un operador, puesto que en el día a día se podrá topar con diversos tipos de clientes. La importancia del servicio y asesoría al cliente en una empresa le permitirá aumentar las ventas, los ingresos, la satisfacción del cliente, la interacción con la marca, la credibilidad de la compañía, la fidelidad del cliente y la conservación de los clientes, de igual forma es una estrategia de relación entre cliente-empresa, se encarga de ser el punto de contacto de los todos los clientes y estará en capacidad de generar una atención oportuna.
 
@@ -148,6 +148,8 @@
             .h5.mb-2 Sirve
             p Deja claro a lo largo de todos los procesos que el cliente es su razón de ser y por eso la empresa se encuentra a su servicio.
 
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-in")
+      h2 1.3. Seguimiento al cliente
 
     .bg_img_02
       p.mb-5 El seguimiento al cliente es un proceso importante al momento de hacer un filtro de ventas, dado que es el momento en el que se puede tomar una decisión de compra mostrándose como la mejor opción. El inconveniente mayor que afrontan las empresas con el seguimiento de clientes es la falta de coherencia, porque no existe un proceso o una estrategia para llegar allí, entonces, la mayoría de las empresas se dan por vencidas y terminan esperando que los clientes regresen a ellas.
@@ -291,8 +293,8 @@
 
     separador
 
-    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-in")
-      h2 1.3 Criterios de percepción del cliente
+    #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-in")
+      h2 1.4 Criterios de percepción del cliente
 
     p.mb-5 Las percepciones de los clientes son juicios subjetivos que se forman después de experimentar un servicio o producto, por eso algunas personas también la definen como experiencia o servicio percibido, debido a que incluye todas las experiencias directas o indirectas que ha tenido un cliente. Se puede decir que la percepción del cliente es el efecto de la comparación entre la expectativa y la realidad.
 
@@ -434,13 +436,13 @@
 
                 li
                   i.fa-li.fas.fa-circle.blt_01
-                  | A los influenciadores, porque casi un 60% de los usuarios de las redes sociales han comprado algún producto que es referenciado por un “influencer”, teniendo en cuenta que este da confianza y credibilidad de un producto, recomendándolo a los clientes, los cuales no dudan en hacer una compra por estos medios.
+                  | A los influenciadores, porque casi un 60 % de los usuarios de las redes sociales han comprado algún producto que es referenciado por un “influencer”, teniendo en cuenta que este da confianza y credibilidad de un producto, recomendándolo a los clientes, los cuales no dudan en hacer una compra por estos medios.
 
                 .hr--line
 
                 li
                   i.fa-li.fas.fa-circle.blt_01
-                  | Los comentarios positivos de los clientes, que en un 95% se toman el tiempo de leer las reseñas de otros consumidores antes de hacer una compra, demostrando que las opiniones de terceros son factores importantes para precisar la percepción del consumidor.
+                  | Los comentarios positivos de los clientes, que en un 95 % se toman el tiempo de leer las reseñas de otros consumidores antes de hacer una compra, demostrando que las opiniones de terceros son factores importantes para precisar la percepción del consumidor.
 
             .col-lg-4
               figure
@@ -487,8 +489,8 @@
               p.mb-0 Tenga presente cada comentario en línea que realicen los clientes.
       p.w-100.mb-5 De esta forma podrá tener un mejor panorama sobre cómo se comportan los diferentes usuarios de un sitio web, identificando los posibles cambios de percepción del producto y del mercado, para ello puede configurar las alertas de Google, estas le avisarán en tiempo real si le hacen reseñas de su producto o servicio, y así sabrá si la reseña que realizan los consumidores es positiva o negativa, para que de esta manera pueda tomar acción y determinar nuevas estrategias de percepción del cliente frente a sus productos.
 
-    #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-in")
-      h2 1.4  Resolución de conflictos
+    #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-in")
+      h2 1.5  Resolución de conflictos
 
     .row.justify-content-center.mb-4
       .mb-4
@@ -512,24 +514,17 @@
             figure
               img(src="@/assets/curso/temas/t1/t1_30.svg")
           .col-md-7.col-xl-8.mb-4.mb-md-0.ps-xl-4.d-flex.flex-wrap.align-content-center
-            h4.p-1(style="background-color: #DEF2F4") Cliente desinteresado
+            h4.p-1(style="background-color: #DEF2F4") Cliente agresivo
             p Son bastante exigentes con cualquier tipo de requerimiento, se quejan fácilmente cuando un producto o servicio es defectuoso o cuando el vendedor pasa por encima de los acuerdos pactados se tornan agresivos en cómo se expresan. No cuentan con una escucha generosa y por el contrario no dejan hablar a la otra persona, y la mayoría de las veces descubren que el error fue cometido por el vendedor. Buscan una solución rápida a sus necesidades. Por lo general este cliente termina la negociación, rompe la relación existente y agrega una mala reputación al vendedor y al proveedor sin encontrar una salida a la negociación.
 
         .d-flex.flex-wrap.col-lg-10.col-xl-9.mx-auto
           .col-md-5.col-xl-4
             figure
-              img(src="@/assets/curso/temas/t1/t1_31.svg")
+              img(src="@/assets/curso/temas/t1/t1_34.svg")
           .col-md-7.col-xl-8.mb-4.mb-md-0.ps-xl-4.d-flex.flex-wrap.align-content-center
-            h4.p-1(style="background-color: #DEF2F4") Clientes silenciosos
-            p Estos clientes dan la precepción de ser de manejo fácil, pero a menudo son más difíciles que los clientes agresivos, porque solo tratan con aquellos que puedan sentir algún tipo de confianza. Son bastante introvertidos, esto puede deberse a una falta de personalidad o desconfianza natural hacia las personas nuevas que conoce.
+            h4.p-1(style="background-color: #DEF2F4") Cliente prepotente
+            p Por lo general cuentan con un alto nivel de superioridad, tienen la verdad absoluta, no les importa generar un problema con el fin de agredir y humillar a los vendedores (verbalmente), ellos creen que son los conocedores del negocio, creen tener el manejo de la negociación y que el vendedor es simplemente un intermediario.
 
-        .d-flex.flex-wrap.col-lg-10.col-xl-9.mx-auto
-          .col-md-5.col-xl-4
-            figure
-              img(src="@/assets/curso/temas/t1/t1_32.svg")
-          .col-md-7.col-xl-8.mb-4.mb-md-0.ps-xl-4.d-flex.flex-wrap.align-content-center
-            h4.p-1(style="background-color: #DEF2F4") Clientes silenciosos
-            p Estos clientes dan la precepción de ser de manejo fácil, pero a menudo son más difíciles que los clientes agresivos, porque solo tratan con aquellos que puedan sentir algún tipo de confianza. Son bastante introvertidos, esto puede deberse a una falta de personalidad o desconfianza natural hacia las personas nuevas que conoce.
 
         .d-flex.flex-wrap.col-lg-10.col-xl-9.mx-auto
           .col-md-5.col-xl-4
@@ -539,30 +534,43 @@
             h4.p-1(style="background-color: #DEF2F4") Cliente quejoso
             p No encuentra ninguna cualidad piensa que todo está mal, se queja de los precios y sus costos, critican el servicio dejando claro que es muy malo, generalmente no le gusta nada de lo que en ese momento se puede estar ofreciendo. Los vendedores en el afán de no crear polémicas y darles la razón suelen aceptar cualquier petición o queja sin distinguir entre clientes legítimos y exagerados.
 
+
         .d-flex.flex-wrap.col-lg-10.col-xl-9.mx-auto
           .col-md-5.col-xl-4
             figure
-              img(src="@/assets/curso/temas/t1/t1_34.svg")
+              img(src="@/assets/curso/temas/t1/t1_32.svg")
           .col-md-7.col-xl-8.mb-4.mb-md-0.ps-xl-4.d-flex.flex-wrap.align-content-center
-            h4.p-1(style="background-color: #DEF2F4") Cliente prepotente
-            p Por lo general cuentan con un alto nivel de superioridad, tienen la verdad absoluta, no les importa generar un problema con el fin de agredir y humillar a los vendedores (verbalmente), ellos creen que son los conocedores del negocio, creen tener el manejo de la negociación y que el vendedor es simplemente un intermediario.
+            h4.p-1(style="background-color: #DEF2F4") Clientes silencioso
+            p Estos clientes dan la precepción de ser de manejo fácil, pero a menudo son más difíciles que los clientes agresivos, porque solo tratan con aquellos que puedan sentir algún tipo de confianza. Son bastante introvertidos, esto puede deberse a una falta de personalidad o desconfianza natural hacia las personas nuevas que conoce.
+
+
+        .d-flex.flex-wrap.col-lg-10.col-xl-9.mx-auto
+          .col-md-5.col-xl-4
+            figure
+              img(src="@/assets/curso/temas/t1/t1_31.svg")
+          .col-md-7.col-xl-8.mb-4.mb-md-0.ps-xl-4.d-flex.flex-wrap.align-content-center
+            h4.p-1(style="background-color: #DEF2F4") Cliente desinteresado
+            p Es bastante complejo este tipo de cliente, puesto que no hay formas de negociación con él, muestra un alto grado de desinterés a la oferta que se le presente, puede ser porque no encontró otra alternativa de compra de su habitual proveedor y no quiere asumir riesgos si su opción es de cambiar de productos y proveedores, esto hace que sean clientes difíciles de abordar para cerrar algún tipo de negociación..
+
+
+
     p.mb-5 Conociendo esta información se recomienda tener una buena disposición al momento de ofrecer sus productos o servicios, sea resiliente, tenga escucha activa, generosa y sobretodo no pierda la calma fácilmente.
     separador
 
     .bg-t1-edit--2
       img.img-bg(src="@/assets/curso/temas/t1/bg-t1-2.svg")
-      #t_1_5.titulo-segundo.position-relative.color-acento-contenido(data-aos="fade-in")
-        h2 1.5  Técnicas de resolución de conflictos
+      #t_1_6.titulo-segundo.position-relative.color-acento-contenido(data-aos="fade-in")
+        h2 1.6  Técnicas de resolución de conflictos
 
       p.mb-4.position-relative Prepararse de la mejor forma posible al momento de reunirse con los clientes difíciles (en especial de los que manejan un temperamento alto y no cuentan con la paciencia necesaria al momento de los reclamos), con ellos es difícil entablar un tema de concertación o negociación, para lo cual es muy importante contar con personas especializadas (vendedores) que tengan un alto nivel de conocimiento de las diversas variables que influyen en una negociación sea en persona o en línea. Esta característica le dará la posibilidad de contar con una persona responsable, confiada y con destrezas de negociación, que no se intimide por el carácter de un cliente y que puede darle respuesta oportuna a cualquier requerimiento enrutando de la mejor forma la negociación.
       .col-xl-10.mx-auto.mb-5
         p.mb-0.position-relative.p-3(style="background-color: #DEF2F4") A continuación se plasmarán 7 técnicas de negociación y resolución de conflictos con clientes que no son de fácil manejo:
         LineaTiempoB.position-relative.p-4(:datos="datosLineaTiempoB" style="background-color: white;")
-      p.mb-5 De acuerdo con estas estrategias de intervención con los clientes tenga presente que el manejo y resolución de conflictos es una destreza que debe conocer toda persona que esté encargada del área de atención al cliente, apóyese en softwares especializados en atención al cliente y registro de datos, porque hay muchas herramientas con las cuales podrá gestionar las relaciones con el usuario y los productos.
+      p.mb-5 De acuerdo con estas estrategias de intervención con los clientes tenga presente que el manejo y resolución de conflictos es una destreza que debe conocer toda persona que esté encargada del área de atención al cliente, apóyese en los software especializados en atención al cliente y registro de datos, porque hay muchas herramientas con las cuales podrá gestionar las relaciones con el usuario y los productos.
       Separador
 
-    #t_1_6.titulo-segundo.color-acento-contenido(data-aos="fade-in")
-      h2 1.6  Solicitudes de los clientes
+    #t_1_7.titulo-segundo.color-acento-contenido(data-aos="fade-in")
+      h2 1.7  Solicitudes de los clientes
 
     .d-flex.flex-wrap.mb-5
       .col-md-9.pe-md-3.order-2.order-md-1
@@ -608,8 +616,8 @@
     p.mb-5 Este tipo de preguntas le permitirán generar una autoevaluación sobre cómo está en la relación con los clientes y le permitirá crear estrategias clave para gestionar la capacidad de respuesta a los mismos, dicho esto considere que la rapidez y precisión en una solicitud le generará una atención de calidad de la empresa.
     Separador
 
-    #t_1_7.titulo-segundo.color-acento-contenido(data-aos="fade-in")
-      h2 1.7  Trámites y respuestas a clientes
+    #t_1_8.titulo-segundo.color-acento-contenido(data-aos="fade-in")
+      h2 1.8  Trámites y respuestas a clientes
 
     p.mb-5 El trámite de respuestas o peticiones de los clientes se enfoca en el desarrollo de procesos al interior de la empresa, en la que se pregunta si es necesario que el cliente tenga la razón, es por eso que para presentar este contenido se responderá la pregunta:
     .d-flex.justify-content-center.mb-5
@@ -623,7 +631,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/t1/t1_37.jpg')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 Un reclamo no del todo puede ser malo, debido a que de esta forma se podrá identificar en qué se está fallando al momento de prestar un servicio, tenga presente que las reclamaciones van a llegar en cualquier momento, este escenario se presta para que se pueda construir una mejor relación con el cliente, porque se podrá generar una comunicación efectiva. Dicho escenario de comunicación se da al momento de que un cliente radica una solicitud y termina al momento en el que la empresa emite una respuesta concreta y precisa dicho requerimiento, por eso la importancia de dar respuesta a las quejas de los clientes.
+          p.mb-0 Un reclamo no del todo puede ser malo, debido a que de esta forma se podrá identificar en qué se está fallando al momento de prestar un servicio, tenga presente que las reclamaciones van a llegar en cualquier momento, este escenario se presta para que se pueda construir una mejor relación con el cliente, porque se podrá generar una comunicación efectiva. Dicho escenario de comunicación se da al momento de que un cliente radica una solicitud y termina al momento en el que la empresa emite una respuesta concreta y precisa a dicho requerimiento, por eso la importancia de dar respuesta a las quejas de los clientes.
 
       p.mt-5 En este aparte se hablará de los puntos importantes al momento de realizar una respuesta de alguna reclamación por parte de un cliente. Se recomienda contar con un equipo de personas capacitadas para dar respuesta a cualquier tipo de queja o situación desde el área de atención al cliente.
 
@@ -632,11 +640,11 @@
       .d-flex.flex-wrap.mb-5
         SlyderA.slidera-edit.position-relative.col-xl-8.order-2.order-xl-1.mb-auto.p-3(tipo="b" style="border-radius: 30px; background-color: white")
           .py-3.py-4.position-relative
-            p.ps-xl-4.col-xl-7.mx-auto.mb-0.position-relative(style="z-index: 1") Dar respuesta de forma rápida al reclamo recibido, tenga en cuenta qué canales utilizará para emitir la respuesta, tenga en cuenta que por lo general que quien presenta la queja no está en disposición de esperar, no será paciente; sin embargo, demuestre que está priorizando la inconformidad, recuerde que esta es una gran oportunidad de fidelización.
+            p.ps-xl-4.col-xl-7.mx-auto.mb-0.position-relative(style="z-index: 1") Dar respuesta de forma rápida al reclamo recibido, tenga en cuenta qué canales utilizará para emitir la respuesta, tenga en cuenta que por lo general quien presenta la queja no está en disposición de esperar, no será paciente; sin embargo, demuestre que está priorizando la inconformidad, recuerde que esta es una gran oportunidad de fidelización.
             img(src="@/assets/curso/temas/t1/slide-1.svg" style="position: absolute; top: -1rem; left: 0; z-index: 0;")
 
           .py-3.py-4.position-relative
-            p.ps-xl-4.col-xl-7.mx-auto.mb-0.position-relative(style="z-index: 1") Para el cliente es importante sentir que su solicitud, queja o reclamo, está siendo bien atendido, de la forma más personalizada posible, escúchelo o léalo detenidamente, si le llama por su nombre este entenderá que está conectado con la situación, es una manera de que el cliente se sienta de una u otra forma tranquila y el percibirá que comprende la situación y que buscara la solución de forma oportuna.
+            p.ps-xl-4.col-xl-7.mx-auto.mb-0.position-relative(style="z-index: 1") Para el cliente es importante sentir que su solicitud, queja o reclamo, está siendo bien atendido, de la forma más personalizada posible, escúchelo o léalo detenidamente, si le llama por su nombre este entenderá que está conectado con la situación, es una manera de que el cliente se sienta de una u otra forma tranquilo y el percibirá que comprende la situación y que buscara la solución de forma oportuna.
             img(src="@/assets/curso/temas/t1/slide-2.svg" style="position: absolute; top: -1rem; left: 0; z-index: 0;")
 
           .py-3.py-4.position-relative
@@ -707,7 +715,7 @@ export default {
       {
         titulo: '',
         texto:
-          'No tener los suficientes canales de respuesta inmediata para los clientes, esto hace referencia números de teléfono que no operen de manera precisa, correos electrónicos que no se responden a tiempo, chats sin respuesta, entre otros, preste bastante atención a este tipo de situaciones.',
+          'No tener los suficientes canales de respuesta inmediata para los clientes, esto hace referencia a números de teléfono que no operen de manera precisa, correos electrónicos que no se responden a tiempo, chats sin respuesta, entre otros, preste bastante atención a este tipo de situaciones.',
         imagen: require('@/assets/curso/temas/t1/img-6.jpg'),
       },
       {
@@ -727,19 +735,19 @@ export default {
       {
         titulo: 'Nada personal',
         texto:
-          'Permita que el cliente argumente la dificultad, porque lo que desea es expresarse, escucharle y darle el espacio necesario hará que la intensidad de la comunicación baje, no tome los comentarios de forma personal y cuando sea su momento de hablar, hágalo con prudencia y respeto ante todo.',
+          'Permita que el cliente argumente la dificultad, porque lo que desea es expresarse; escucharle y darle el espacio necesario hará que la intensidad de la comunicación baje, no tome los comentarios de forma personal y cuando sea su momento de hablar, hágalo con prudencia y respeto ante todo.',
         icono: require('@/assets/curso/temas/t1/l-2.svg'),
       },
       {
         titulo: 'Pregunte',
         texto:
-          'Realice preguntas concretas al cliente (cuál es el inconveniente presentado y cómo puedo ayudarle a dar pronta solución), puesto que esté en medio de su enojo, él no sabrá expresar su disgusto.',
+          'Realice preguntas concretas al cliente (cuál es el inconveniente presentado y cómo puedo ayudarle a dar pronta solución), puesto que este en medio de su enojo, él no sabrá expresar su disgusto.',
         icono: require('@/assets/curso/temas/t1/l-3.svg'),
       },
       {
         titulo: 'Traza',
         texto:
-          'Es muy importante utilizar un sistema de atención al cliente (#[em software]), el cual le permita dar respuesta inmediata a una solicitud, mientras recibe la queja vía telefónica simplemente observando la ficha técnica del cliente, la cual le permitirá saber si es la primera queja que realiza, si está comunicado con el área adecuada para dar respuesta a su solicitud y, cuándo y cómo realizó la compra.',
+          'Es muy importante utilizar un sistema de atención al cliente (<em>software</em>), el cual le permita dar respuesta inmediata a una solicitud, mientras recibe la queja vía telefónica simplemente observando la ficha técnica del cliente, la cual le permitirá saber si es la primera queja que realiza, si está comunicado con el área adecuada para dar respuesta a su solicitud y, cuándo y cómo realizó la compra.',
         icono: require('@/assets/curso/temas/t1/l-4.svg'),
       },
       {
